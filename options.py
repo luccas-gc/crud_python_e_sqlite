@@ -75,7 +75,7 @@ def option3():
 
                 if verify_user == True:
                     try:
-                        crud.table.update_user(update_id, update_profession)
+                        crud.table.update_user(update_id, None, update_profession)
                     except crud.ErrorDB as e:
                         print(e)
                 else:
