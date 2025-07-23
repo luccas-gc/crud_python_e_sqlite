@@ -1,5 +1,5 @@
-import crud
-import verificadores
+from modules import crud
+from modules import verificadores
 
 def verify_option(option):
     if option == 1:

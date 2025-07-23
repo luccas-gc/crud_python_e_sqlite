@@ -1,4 +1,4 @@
-import crud
+from modules import crud
 
 def check_user_exists(idUser: int):
     user_list = crud.table.read_user()
