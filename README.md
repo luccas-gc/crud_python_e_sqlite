@@ -40,6 +40,7 @@ As ações são executadas por meio de um menu de navegação no terminal.
 ```
 📦 crud sqlite
 ├── 📁 modules
+├── ├── __init__.py
 │   ├── crud.py
 │   ├── options.py
 │   └── verificadores.py
