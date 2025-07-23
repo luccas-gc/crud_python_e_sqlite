@@ -1,5 +1,5 @@
-import crud
-import options
+from modules import crud
+from modules import options
 
 class OptionError(Exception): pass
 
