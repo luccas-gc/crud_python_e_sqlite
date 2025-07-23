@@ -1,4 +1,4 @@
-# Projeto CRUD com SQLite3 - Python 🐍
+# Projeto CRUD com SQLite - Python 🐍
 
 Este projeto foi desenvolvido como uma forma de praticar conceitos fundamentais da programação com Python, incluindo:
 
